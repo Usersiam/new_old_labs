@@ -1,0 +1,3 @@
+﻿  Win32Project4.cpp
+c:\учеба\фит\2 курс\ооп\лабораторная работа №13 (winapi)\win32project4\win32project4.cpp(141): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Win32Project4.vcxproj -> C:\Учеба\ФИТ\2 курс\ООП\Лабораторная работа №13 (WinAPI)\Debug\Win32Project4.exe
