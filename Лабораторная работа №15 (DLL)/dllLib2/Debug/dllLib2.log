@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\учеба\фит\2 курс\ооп\lab-15-master\lab15\dlllib2\source.cpp(37): warning C4172: возвращение адреса локальной или временной переменной : AdapterInfo
+c:\учеба\фит\2 курс\ооп\lab-15-master\lab15\dlllib2\source.cpp(13): warning C4172: возвращение адреса локальной или временной переменной : AdapterInfo
+     Создается библиотека C:\Учеба\ФИТ\2 курс\ООП\lab-15-master\lab15\Debug\dllLib2.lib и объект C:\Учеба\ФИТ\2 курс\ООП\lab-15-master\lab15\Debug\dllLib2.exp
+  dllLib2.vcxproj -> C:\Учеба\ФИТ\2 курс\ООП\lab-15-master\lab15\Debug\dllLib2.dll

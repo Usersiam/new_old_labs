@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\учеба\фит\2 курс\ооп\lab-15-master\lab15\dlllib\source.cpp(6): warning C4190: для "getSize" задана С-компоновка, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+c:\учеба\фит\2 курс\ооп\lab-15-master\lab15\dlllib\source.cpp(52): warning C4172: возвращение адреса локальной или временной переменной : AdapterInfo
+     Создается библиотека C:\Учеба\ФИТ\2 курс\ООП\lab-15-master\lab15\Debug\dllLib.lib и объект C:\Учеба\ФИТ\2 курс\ООП\lab-15-master\lab15\Debug\dllLib.exp
+  dllLib.vcxproj -> C:\Учеба\ФИТ\2 курс\ООП\lab-15-master\lab15\Debug\dllLib.dll
